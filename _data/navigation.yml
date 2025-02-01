@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Research & Publications"
+    url: "/research_publications/"
+  - title: "Teaching & Outreach"
+    url: "/teaching_outreach/"
+  - title: "Contact"
+    url: "/contact/"
