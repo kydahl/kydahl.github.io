@@ -1,17 +1,17 @@
 # Site settings
 title: "Kyle Dahlin"
-description: "Mathematical Modeling | Ecology and Epidemiology of Vector-Borne Diseases
-url: "https://kydahl.github.io" # Change to your actual site URL
-baseurl: "" # Leave empty unless using a project page
+description: "Mathematical Modeling | Epidemiology | Vector-Borne Disease Research"
+url: "https://kydahl.github.io"  # Your actual site URL
+baseurl: ""  # Keep empty unless using a project page
 
-# Theme settings
+# Use Minimal Mistakes as a remote theme
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "default"  # Can change to "dark", "air", "contrast", etc.
 
 # Author settings
 author:
   name: "Kyle Dahlin"
-  avatar: "/assets/images/profile.jpg" # Add an image in assets/images folder
+  # avatar: "/assets/images/profile.jpg"  # Ensure this image exists in assets/images/
   bio: "Applied mathematician studying mosquito-borne disease transmission."
   location: "United States"
   links:
@@ -25,7 +25,7 @@ author:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Kyle-Dahlin"
 
-# Navigation links
+# Navigation bar settings
 nav_links:
   - title: "Home"
     url: "/"
@@ -36,8 +36,20 @@ nav_links:
   - title: "Contact"
     url: "/contact/"
 
-# Plugins
+# GitHub Pages-approved plugins
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
-  - jekyll-se
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Ensure _pages directory is included
+include:
+  - _pages
+
+# Output settings
+markdown: kramdown
+highlighter: rouge
+
+# Disable the theme's default header text (optional)
+theme_settings:
+  show_header_text: false
