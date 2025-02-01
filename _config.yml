@@ -31,14 +31,17 @@ collections:
     output: true
     permalink: /:path/
 
-# Navigation links
-nav_links:
-  - title: "Research & Publications"
-    url: "/research_publications/"
-  - title: "Teaching & Outreach"
-    url: "/teaching_outreach/"
-  - title: "Contact"
-    url: "/contact/"
+# Top navigation bar config
+navigation: navigation.yml
+
+# # Navigation links
+# nav_links:
+#   - title: "Research & Publications"
+#     url: "/research_publications/"
+#   - title: "Teaching & Outreach"
+#     url: "/teaching_outreach/"
+#   - title: "Contact"
+#     url: "/contact/"
 
 # Plugins
 plugins:
