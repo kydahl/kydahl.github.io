@@ -1,19 +1,43 @@
-title: "Kyle's Research"
-description: "Mathematical Biology, Mosquito-Borne Disease Modeling"
-author: "Kyle"
-baseurl: ""
-url: "https://kydahl.github.io"
-remote_theme: "mmistakes/minimal-mistakes"
+# Site settings
+title: "Kyle Dahlin"
+description: "Mathematical Modeling | Ecology and Epidemiology of Vector-Borne Diseases
+url: "https://kydahl.github.io" # Change to your actual site URL
+baseurl: "" # Leave empty unless using a project page
 
-# Navigation
-header_pages:
-  - _pages/about.md
-  - _pages/research_publications.md
-  - _pages/teaching.md
-  - _pages/contact.md
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+# Author settings
+author:
+  name: "Kyle Dahlin"
+  avatar: "/assets/images/profile.jpg" # Add an image in assets/images folder
+  bio: "Applied mathematician studying mosquito-borne disease transmission."
+  location: "United States"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/kydahl"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kyle-Dahlin"
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research_publications/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Contact"
+    url: "/contact/"
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-se
