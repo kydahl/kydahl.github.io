@@ -1,0 +1,18 @@
+title: "Kyle's Research"
+description: "Mathematical Biology, Mosquito-Borne Disease Modeling"
+author: "Kyle"
+baseurl: ""
+url: "https://kydahl.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Navigation
+header_pages:
+  - _pages/about.md
+  - _pages/research_publications.md
+  - _pages/teaching.md
+  - _pages/contact.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
