@@ -45,6 +45,5 @@ navigation: _data/navigation.yml
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
