@@ -1,19 +1,19 @@
 # Site settings
 title: "Kyle Dahlin"
-description: "Mathematical Modeling | Epidemiology | Vector-Borne Disease Research"
-url: "https://kydahl.github.io"  # Your actual site URL
-baseurl: ""  # Keep empty unless using a project page
+description: "Applied Mathematics | Ecology and Epidemiology of Vector-Borne Diseases Research"
+url: "https://kydahl.github.io"
+baseurl: ""
 
-# Use Minimal Mistakes as a remote theme
+# Minimal Mistakes theme settings
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"  # Can change to "dark", "air", "contrast", etc.
+minimal_mistakes_skin: "default"
 
 # Author settings
 author:
   name: "Kyle Dahlin"
-  # avatar: "/assets/images/profile.jpg"  # Ensure this image exists in assets/images/
-  bio: "Applied mathematician studying mosquito-borne disease transmission."
-  location: "United States"
+  # avatar: "/assets/images/profile.jpg"
+  # bio: "Applied mathematician studying mosquito-borne disease transmission."
+  # location: "United States"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -36,20 +36,16 @@ nav_links:
   - title: "Contact"
     url: "/contact/"
 
-# GitHub Pages-approved plugins
+# Plugins (only GitHub Pages-approved ones)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Ensure _pages directory is included
+# Include _pages directory in the build
 include:
   - _pages
 
 # Output settings
 markdown: kramdown
 highlighter: rouge
-
-# Disable the theme's default header text (optional)
-theme_settings:
-  show_header_text: false
