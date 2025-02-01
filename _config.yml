@@ -10,7 +10,7 @@ minimal_mistakes_skin: "default"
 
 # Author settings
 author:
-  name: "Kyle Dahlin"
+  # name: "Kyle Dahlin"
   # avatar: "/assets/images/profile.jpg"
   bio: "Applied mathematician studying mosquito-borne disease transmission."
   location: "United States"
@@ -32,7 +32,7 @@ collections:
     permalink: /:path/
 
 # Top navigation bar config
-navigation: navigation.yml
+navigation: _data/navigation.yml
 
 # # Navigation links
 # nav_links:
