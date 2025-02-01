@@ -1,0 +1,47 @@
+# Site settings
+title: "Kyle Dahlin"
+description: "Applied Mathematics | Ecology and Epidemiology of Vector-Borne Diseases Research"
+url: "https://kydahl.github.io"
+baseurl: ""
+
+# Minimal Mistakes theme settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+# Author settings
+author:
+  name: "Kyle Dahlin"
+  # avatar: "/assets/images/profile.jpg"
+  # bio: "Applied mathematician studying mosquito-borne disease transmission."
+  # location: "United States"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/kydahl"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kyle-Dahlin"
+
+# Navigation bar settings
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research_publications/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Plugins (only GitHub Pages-approved ones)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Output settings
+markdown: kramdown
+highlighter: rouge
