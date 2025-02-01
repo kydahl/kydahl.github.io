@@ -42,10 +42,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Include _pages directory in the build
-include:
-  - _pages
-
 # Output settings
 markdown: kramdown
 highlighter: rouge
