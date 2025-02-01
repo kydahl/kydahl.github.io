@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
 ---
 
-# Welcome to My Website
+## Welcome
 
-I am an applied mathematician specializing in **dynamical systems** and their applications to **ecological and epidemiological modeling**. My research focuses on **mosquito-borne disease transmission**, using mathematical models to understand outbreak dynamics and inform public health interventions.
+I am an applied mathematician specializing in mathematical modeling, epidemiology, and vector-borne disease research. My work focuses on using dynamical systems and computational methods to study mosquito-borne disease transmission and inform public health interventions.
 
-This website contains information about my **research**, **publications**, **teaching**, and **contact details**. Feel free to explore and reach out if you're interested in collaborating!
+Currently, I develop temperature-dependent models to understand how climate variability affects mosquito populations and pathogen spread. My research integrates theoretical mathematics, computational biology, and ecological modeling to provide insights into disease dynamics.
+
+This website provides an overview of my research, publications, and teaching activities. Feel free to explore and reach out for potential collaborations or discussions on mathematical modeling in epidemiology and public health.
