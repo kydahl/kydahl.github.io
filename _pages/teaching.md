@@ -13,9 +13,10 @@ calendar: true
 I have taught courses in applied mathematics, calculus, and mathematical modeling at Virginia Tech, the University of Georgia, Purdue University, and the University of Hawai‘i at Mānoa. My teaching emphasizes active learning, interdisciplinary applications, and real-world problem-solving.
 
 ### Current Teaching
-- **Guest Lecturer**, *Mathematical Methods for Modeling and Simulation of Biological Systems*, Virginia Tech (Fall 2024)
+- **Instructor**, *Linear Analysis*, Cal Poly (Fall 2026)
 
 ### Previous Teaching Experience
+- **Guest Lecturer**, *Mathematical Methods for Modeling and Simulation of Biological Systems*, Virginia Tech (Fall 2024)
 - **Research Mentor**, *Population Biology of Infectious Diseases REU Program*, University of Georgia (Summer 2023)
 - **Instructor**, *Simulating Infectious Diseases with R (Workshop)*, University of Georgia (Summer 2022)
 - **Course Coordinator & Instructor**, *Calculus I (MA 161)*, Purdue University (Summer 2019)
