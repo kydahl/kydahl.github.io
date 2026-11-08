@@ -51,11 +51,9 @@ cv:
         studyType: B.A., Mathematics
         date: "2013"
 
-    Publication Notes:
-      - bullet: Author order for most published work (exceptions 1 and 10) indicates level of contribution, with the highest level of contribution associated with the first and last author.
-      - bullet: "* = joint first authorship; ♯ = graduate student co-author; ♮ = undergraduate co-author"
-
     Publications:
+      - title: Publication note
+        summary: "Author order for most published work (exceptions 1 and 10) indicates level of contribution, with the highest level of contribution associated with the first and last author. * = joint first authorship; ♯ = graduate student co-author; ♮ = undergraduate co-author."
       - title: Fast-Lived Vertebrate Hosts Exhibit Higher Potential for Mosquito-Borne Parasite Transmission
         date: "2024"
         publisher: bioRxiv
@@ -125,44 +123,54 @@ cv:
         publisher: MAA Focus 45 (2), 34–36
         summary: "Dahlin, Kyle, and Stacy M. T. Potes. General audience."
 
-    In Preparation:
-      - bullet: Modeling interactions between mosquito biting persistence and defensive behaviors on mosquito-borne disease transmission with Michael Robert, Lauren Childs, and Clément Vinauger.
-      - bullet: Optimal control of vectored, venereal, and vertical La Crosse Virus transmission in a wildlife setting with George Lytle and Benjamin Lebdaoui (undergraduate).
-      - bullet: Explainable identification of animal disease reservoirs through topological data analysis with Sarah Percival.
-
-    Research Grants:
-      - bullet: "2026 — Arctic Lens Mini-Grant, Center for Sustainable Engagement in the Arctic, Virginia Tech (PI, K. Dahlin) — $1,000"
-      - bullet: "2025 — Seed Grant, Pandemic Prediction and Prevention Destination Area, Virginia Tech (PI, K. Dahlin; co-PIs Clément Vinauger, Lauren M. Childs, Michael Robert) — $20,000"
-      - bullet: "2023 — Ascending Postdoctoral Fellowship (DMS-2316455), NSF Directorate for the Mathematical and Physical Sciences (PI, K. Dahlin) — $300,000"
-      - bullet: "2021 — Modelling University Responses to COVID-19, NIH-MIDAS Coordination Center (co-PIs, K. Dahlin and John Drake) — $9,939"
-    Other Grants:
-      - bullet: "2025 — Career Development Grant, Sloan Scholars Mentoring Network (PI, K. Dahlin) — $3,000"
-      - bullet: "Seminar Speaker Support, VT Center for the Mathematics of Biosystems — $500"
-      - bullet: "2023 — Tensor SUMMA Grant, Mathematical Association of America to the Indigenous Mathematicians Network — $6,000"
+    Grants:
+      - label: "2026 — Arctic Lens Mini-Grant"
+        details: "Center for Sustainable Engagement in the Arctic, Virginia Tech (PI, K. Dahlin) — $1,000"
+      - label: "2025 — Seed Grant"
+        details: "Pandemic Prediction and Prevention Destination Area, Virginia Tech (PI, K. Dahlin; co-PIs Clément Vinauger, Lauren M. Childs, Michael Robert) — $20,000"
+      - label: "2023 — Ascending Postdoctoral Fellowship (DMS-2316455)"
+        details: "NSF Directorate for the Mathematical and Physical Sciences (PI, K. Dahlin) — $300,000"
+      - label: "2021 — Modelling University Responses to COVID-19"
+        details: "NIH-MIDAS Coordination Center (co-PIs, K. Dahlin and John Drake) — $9,939"
+      - label: "2025 — Career Development Grant"
+        details: "Sloan Scholars Mentoring Network (PI, K. Dahlin) — $3,000"
+      - label: Seminar Speaker Support
+        details: "VT Center for the Mathematics of Biosystems — $500"
+      - label: "2023 — Tensor SUMMA Grant"
+        details: "Mathematical Association of America to the Indigenous Mathematicians Network — $6,000"
     Honors and Awards:
-      - bullet: "2022–2024 — MGB-SIAM Early Career Fellowship, Society for Industrial and Applied Mathematics"
-      - bullet: "2021 — Contributed Talk Award for Mathematical Epidemiology, Society for Mathematical Biology & University of California, Riverside"
-      - bullet: "2019 — Excellence in Teaching Award, Purdue University Department of Mathematics"
-      - bullet: "2018 — Cagiantas Fellowship, Purdue University. Awarded to a senior Ph.D. student who has demonstrated a high level of accomplishment in their research and has participated in activities that have had a positive impact on the climate of their department, University, or community."
-      - bullet: "2017 — AGEP Mentoring Award, Purdue University"
-      - bullet: "2016 — Lighting the Pathway Fellowship, American Indian Science and Engineering Society"
-      - bullet: "2015–2019 — AGEP Scholarship, Purdue University"
-      - bullet: "2013–2019 — Sloan Indigenous Graduate Partnership Scholarship, Sloan Foundation"
-      - bullet: "2012 — Undergraduate Student Poster Presentation Award, SACNAS"
-      - bullet: "2010 — Undergraduate Math and Biology Research Program Fellowship, University of Hawaiʻi at Mānoa"
+      - date: "2022–2024"
+        title: MGB-SIAM Early Career Fellowship
+        awarder: Society for Industrial and Applied Mathematics
+      - date: "2021"
+        title: Contributed Talk Award for Mathematical Epidemiology
+        awarder: Society for Mathematical Biology & University of California, Riverside
+      - date: "2019"
+        title: Excellence in Teaching Award
+        awarder: Purdue University Department of Mathematics
+      - date: "2018"
+        title: Cagiantas Fellowship
+        awarder: Purdue University
+        summary: Awarded to a senior Ph.D. student who has demonstrated a high level of accomplishment in their research and has participated in activities that have had a positive impact on the climate of their department, University, or community.
+      - date: "2017"
+        title: AGEP Mentoring Award
+        awarder: Purdue University
+      - date: "2016"
+        title: Lighting the Pathway Fellowship
+        awarder: American Indian Science and Engineering Society
+      - date: "2015–2019"
+        title: AGEP Scholarship
+        awarder: Purdue University
+      - date: "2013–2019"
+        title: Sloan Indigenous Graduate Partnership Scholarship
+        awarder: Sloan Foundation
+      - date: "2012"
+        title: Undergraduate Student Poster Presentation Award
+        awarder: SACNAS
+      - date: "2010"
+        title: Undergraduate Math and Biology Research Program Fellowship
+        awarder: University of Hawaiʻi at Mānoa
 
-    Presentations:
-      - bullet: "Colloquia (2025): Virginia Tech Mathematics Colloquium, Blacksburg, VA; James Madison University Mathematics & Statistics Colloquium, Harrisonburg, VA; Mathematics and Climate Research Network, Virtual."
-      - bullet: "Invited seminars: University of Montana Sloan Indigenous Graduate Program Seminar (2026, Virtual); Virginia Tech Ecology and Evolutionary Biology Seminar (2025, Blacksburg, VA); University of Maryland Mathematical Biology Seminar (2025, College Park); University of New Mexico Applied Math Seminar (2025, Albuquerque, NM); Virginia Commonwealth University BioMath Seminar (2025, Richmond, VA); Virginia Tech Mathematical Biology Seminar (2024, Blacksburg, VA); University of Hawaiʻi at Mānoa Applied Math Seminar (2023, Honolulu, HI); University of California, Davis Mathematical Biology Seminar (2022, Virtual); MIDAS Webinar: COVID-19 Urgent Grant Program Awards (2021, Virtual); Virginia Tech Mathematical Biology Seminar (2021, Virtual); Center for the Ecology of Infectious Diseases Disease Ecology Workshop (2020, Athens, GA); University of Hawaiʻi at West Oʻahu (2018, Kapolei, HI); University of Wollongong (2018, Wollongong, Australia); Purdue University Student Colloquium (2018, 2017, and 2016, West Lafayette, IN); Purdue University Graduate Student Research Day (2016, West Lafayette, IN)."
-      - bullet: "Invited conferences: Joint Mathematics Meetings (2026, Washington, DC; 2025, Seattle, WA; 2024, San Francisco, CA; 2022, Virtual); Society for Mathematical Biology (2025, Edmonton, Canada; 2024, Seoul, South Korea; 2019, Montreal, Canada); AISES Region 7 Conference (2024, Hampton, VA); SIAM Annual Meeting (2022, Pittsburgh, PA); SACNAS National Conference (2019, Honolulu, HI); AMS Spring Central and Western Joint Sectional Meeting (2019, Honolulu, HI); 6th International Conference on Mathematical Biology (2018, Beijing, China); AMS Spring Central Sectional Meeting (2018, Columbus, OH)."
-      - bullet: "Contributed presentations: Infectious Diseases Research Symposium, Virginia Tech Center for Emerging, Zoonotic, and Arthropod-borne Pathogens (2025, Blacksburg, VA); Infectious Diseases Research Symposium, CeZAP (2023, Blacksburg, VA); Society for Mathematical Biology Annual Conference (2021, Virtual); SACNAS National Conference (2020, Virtual; 2012, Seattle, WA); AISES National Conference (2018, Oklahoma City, OK)."
-      - bullet: "Poster presentations: Virginia Tech Mechanistic Biological Modeling Symposium (2023, Blacksburg, VA); Society for Vector Ecology Annual Conference (2022, Honolulu, HI); Ecology & Evolution of Infectious Diseases (2022, Atlanta, GA); The Wildlife Society Annual Conference (2018, Reno, NV); Society for Mathematical Biology Annual Conference (2018, Sydney, Australia)."
-      - bullet: "Symposia organized: ʻĀina Momona: A symposium on place-based math education in Hawaiʻi, with Stacy Potes (2025, Honolulu, HI); Society for Mathematical Biology Annual Meeting: Postdoctoral Research Showcase, with Laura Strube (2024, Seoul, South Korea); SIAM Conference on Control and Its Applications: Applications of Control in Biological Systems, with Suzanne Lenhart (2023, Philadelphia, PA); Society for Mathematical Biology Annual Meeting: Ecological models at the interface of empirical and theoretical research, with Amanda Laubmeier (2021, Virtual); Society for Mathematical Biology Annual Meeting: Mathematical models for infectious diseases at population and individual levels, with Joan Ponce (2019, Montreal, Canada); Society for Mathematical Biology Annual Meeting: Mathematical modeling of malaria: Dynamics within-host and between-hosts, with Lauren Childs (2018, Sydney, Australia); 6th International Conference on Mathematical Biology: Mathematical Models in Ecology, with Joan Ponce (2018, Beijing, China)."
-
-    Public Outreach:
-      - bullet: "2023 — University of Hawaiʻi at Mānoa 808 State Math Challenge, Ewa Beach, HI"
-      - bullet: "2023 — University of Hawaiʻi at Mānoa Undergraduate Math Club, Honolulu, HI"
-      - bullet: "2018 — Hands of the Future, Inc., West Lafayette, IN"
     Teaching Experience:
       - bullet: "Cal Poly — Fall 2026: Instructor, Linear Analysis (MATH 2341)"
       - bullet: "Virginia Tech — Spring 2026: Project leader, Center for the Mathematics of Biosystems Summer School; Associate Teaching Badge, Center for the Integration of Research, Teaching, and Learning"
@@ -172,40 +180,12 @@ cv:
       - bullet: "Purdue University — Summer 2019: Course coordinator & Instructor, Calculus I (MA 161); Spring 2018: Online instructional support, Applied Calculus I & II (MA 16010 & 16020); Fall 2017: Instructor, Applied Calculus I (MA 16010); Spring 2017: Instructor, Calculus II, Active Learning (MA 162); Fall 2016 and Summer 2016: Instructor, Calculus I (MA 161); Spring 2016: Instructor, Applied Calculus II (MA 16020); Fall 2015: Recitation Instructor, Multivariable Calculus (MA 261); Summer 2015–2019: Instructor, GRE Quantitative Exam Preparation for AGEP."
       - bullet: "University of Hawaiʻi at Mānoa — Summer 2024: Organizer, Place-based Mathematics Education Seminar; 2012–2013: Calculus and Physics Tutor, Native Hawaiian Science and Engineering Mentorship Program; 2012–2013: Teaching Assistant, Natural Sciences Undergraduate Learning Emporium."
 
-    Mentoring:
-      - bullet: "Cal Poly — N. Hazzard (undergraduate, Mathematics, Cal Poly): Mentored senior thesis project."
-      - bullet: "Virginia Tech — A. Miller (graduate student, Mathematics, Virginia Tech): Met weekly to discuss integral projection modeling and computational techniques for coral population dynamics."
-      - bullet: "Virginia Tech — T. Gibbs (graduate student, Quantitative and Computational Biology, Princeton) and J. Brennan (graduate student, Population Biology, UC Davis): Provided guidance on the development, simulation, and analysis of models of population dynamics of coral holobionts."
-      - bullet: "University of Georgia — A. Willoughby (graduate student, Ecology): Provided guidance on the development on a model of rodent population cycles. K. Ebey (undergraduate REU, Biology, Chemistry, and Mathematics): Advised on a project using stochastic differential equations to model the effects of environmental variation on mosquito-borne disease transmission. N. Tabassum (graduate student, Mathematics, Texas Tech): Provided guidance on generating thermal performance curves for mosquito traits and integrating them into modeling."
-      - bullet: "Purdue University — Four undergraduates (LSAMP) and five graduate students (Graduate Bridge Program) in Mathematics, Statistics, Physics, Wildlife Biology and Conservation, Electrical and Computer Engineering, Mechanical Engineering, Chemical Engineering, and Mechatronics Engineering through the AGEP program."
-
     Leadership and Service:
       - bullet: "2025–2026 — Annual Meeting Organizing Committee, Society for Industrial and Applied Mathematics (SIAM)"
       - bullet: "2024–2026 — Chair, Workshop Celebrating Diversity Working Group, SIAM"
       - bullet: "2025 — Faculty advisor, American Indian Science and Engineering Society (AISES) at Virginia Tech"
       - bullet: "2023–present — Member, Virginia Tech Indigenous Caucus; 2021–present — Member-at-Large, Membership Committee, Society for Mathematical Biology; 2020–present — Co-director, Indigenous Mathematicians Network"
       - bullet: "2024–2025 — Conference Organizing Committee, Mid-Atlantic Regional Math Alliance; 2014–2018 — Vice President (2014) and Treasurer (2015–2018), AISES, Purdue Chapter; 2016–2017 — Graduate Representative, Purdue University Department of Mathematics; 2013–2016 — Assistant Coach, C. Richard Petticrew Forum (Purdue Collegiate Debate Team); 2012–2013 — Captain, University of Hawaiʻi at Mānoa Debate Society."
-    Professional Memberships:
-      - bullet: American Mathematical Society (AMS)
-      - bullet: Society for Industrial and Applied Mathematics (SIAM)
-      - bullet: Society for Mathematical Biology (SMB)
-      - bullet: Mathematical Association of America (MAA)
-      - bullet: Association for Women in Mathematics (AWM)
-      - bullet: Spectra
-      - bullet: American Indian Science and Engineering Society (AISES)
-    Workshops Attended:
-      - bullet: "2025 — +Policy Network Policy Camp, Virginia Tech; The Math Bundle, Banff International Research Station; New Collaborations Workshop, Center for the Mathematics of Biosystems, Virginia Tech."
-      - bullet: "2024 — Theory of Microbial Symbiosis Workshop, Hawaiʻi Institute of Marine Biology, University of Hawaiʻi at Mānoa."
-      - bullet: "2021 — VectorBiTE 2021 Training, VectorBiTE Research Coordination Network; Dynamics of Infectious Diseases: Ecological Models Across Multiple Scales, AMS Mathematics Research Community."
-      - bullet: "2020 — Workshop for New Investigators, NSF Directorate for Mathematical and Physical Sciences; Adaptive Management Tutorial, National Institute for Mathematical and Biological Synthesis, University of Tennessee, Knoxville."
-      - bullet: "2018 — Applied Management Principles, Krannert Executive Education Programs, Purdue University; Disease Ecology and Eco-epidemiology, Mathematical Biosciences Institute, Ohio State University."
-      - bullet: "2017 — Industrial Mathematical and Statistical Modeling Workshop, Statistical and Applied Mathematical Sciences Institute, North Carolina State University."
-      - bullet: "2016 — Dynamics of Biological Systems, Seminaire de Mathematiques Superieure, University of Alberta."
-      - bullet: "2015 — Uncertainty, Sensitivity, and Predictability in Ecology: Mathematical Challenges and Ecological Applications, Mathematical Biosciences Institute, Ohio State University."
-    Journals Refereed:
-      - bullet: Bulletin of Mathematical Biology; Journal of Mathematical Biology; Mathematical Biosciences; Ecology Letters; Journal of Theoretical Biology; Methods in Ecology and Evolution; Proceedings of the Royal Society B; PLoS Computational Biology.
-    Grant Review Panels:
-      - bullet: "National Science Foundation, Division of Mathematical Sciences (2025)"
     Languages:
       - language: Programming
         fluency: Proficient in MATLAB, R, Julia, and LaTeX. Intermediate experience with Python.
@@ -214,5 +194,5 @@ cv:
       - language: Hawaiian
         fluency: Intermediate
     Other Certifications:
-      - bullet: "Wilderness First Aid (MEDIC SOLO), Exp. 4/27"
-      - bullet: "Basic Life Support (Red Cross), Exp. 6/28"
+      - bullet: "Wilderness First Aid (MEDIC SOLO)
+      - bullet: "Basic Life Support (Red Cross)
