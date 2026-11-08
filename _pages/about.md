@@ -2,15 +2,15 @@
 layout: about
 title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Building 25, Office 308</p>
-    <p>123 Cal Poly</p>
+    <p>Building 25, Office 308</p>
+    <p>Cal Poly</p>
     <p>San Luis Obispo, CA 93407</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
