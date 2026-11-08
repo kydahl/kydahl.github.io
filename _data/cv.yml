@@ -4,9 +4,7 @@ cv:
   email: kjdahlin@calpoly.edu
   website: kydahl.github.io
   address:
-    city: San Luis Obispo
-    region: CA
-    postalCode: "93401"
+    city: Cal Poly, San Luis Obispo
   social_networks:
     - network: GitHub
       username: kydahl

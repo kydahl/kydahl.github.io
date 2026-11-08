@@ -46,3 +46,33 @@ html[data-theme="dark"] {
 .news-thumbnail--small {
   width: 120px;
 }
+
+// The news archive mirrors the date / image / text layout used on the previous site.
+.news-archive .news table {
+  width: 100%;
+}
+
+.news-archive .news th {
+  width: 20% !important;
+  padding: 1.5rem 1.25rem 2.5rem 0;
+  vertical-align: top;
+  font-weight: 600;
+}
+
+.news-archive .news td {
+  display: flow-root;
+  padding: 1.5rem 0 2.5rem;
+  vertical-align: top;
+}
+
+.news-archive .news-thumbnail {
+  width: 260px;
+  max-width: 45%;
+  height: 200px;
+  margin: 0 1.5rem 0.75rem 0;
+  object-fit: contain;
+}
+
+.news-archive .news-thumbnail--small {
+  width: 260px;
+}
