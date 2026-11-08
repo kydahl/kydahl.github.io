@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-For the SIAM Annual Meeting in Cleveland, Ohio, I am heading the working group for the Workshop Celebrating Diversity and serving on the conference organizing committee.
+I led the working group for the Workshop Celebrating Diversity and served on the conference organizing committee at the SIAM Annual Meeting in Cleveland, Ohio.
