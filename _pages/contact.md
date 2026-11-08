@@ -9,7 +9,7 @@ author_profile: true
 
 For inquiries regarding research, teaching, or collaborations, feel free to reach out:
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email:** [kjdahlin@calpoly.edu](mailto:kjdahlin@calpoly.edu)
 - 🐙 **GitHub:** [github.com/kydahl](https://github.com/kydahl)
 - 🎓 **Google Scholar:** [scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ](https://scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ)
 - 🔬 **ResearchGate:** [researchgate.net/profile/Kyle-Dahlin](https://www.researchgate.net/profile/Kyle-Dahlin)
