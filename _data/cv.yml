@@ -1,189 +1,218 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
+  name: Kyle Dahlin
+  label: Assistant Professor
+  email: kjdahlin@calpoly.edu
+  website: https://sites.google.com/view/kyledahlin
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: San Luis Obispo
+    region: CA
+    postalCode: "93401"
+  social_networks:
+    - network: GitHub
+      username: kydahl
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Cal Poly, Department of Mathematics
+        position: Assistant Professor
+        start_date: "2026"
+        end_date: Present
+      - company: Virginia Tech, Department of Mathematics
+        position: NSF-MPS Ascending Postdoctoral Research Fellow
+        start_date: "2023"
+        end_date: "2026"
+      - company: University of Georgia, Odum School of Ecology and Center for the Ecology of Infectious Diseases
+        position: Postdoctoral Research Associate
+        start_date: "2020"
+        end_date: "2023"
+      - company: University of Hawaiʻi at Mānoa, Pacific Biosciences Research Center
+        position: Visiting Scholar
+        start_date: "2018"
+        end_date: "2018"
+      - company: Purdue University, Department of Mathematics
+        position: Graduate Teaching Assistant
+        start_date: "2015"
+        end_date: "2020"
+
+    Education:
+      - institution: Purdue University
+        location: West Lafayette, IN
+        studyType: Ph.D., Mathematics
+        date: "2020"
         highlights:
-          - Relativity
-          - Description 2.
+          - "Dissertation title: Mathematical Models for Mosquito-borne Infectious Diseases of Wildlife"
+          - "Advisor: Zhilan Feng"
+      - institution: Purdue University
+        location: West Lafayette, IN
+        studyType: M.S., Mathematics
+        date: "2015"
+      - institution: University of Hawaiʻi at Mānoa
+        location: Honolulu, HI
+        studyType: B.A., Mathematics
+        date: "2013"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Publication Notes:
+      - bullet: Author order for most published work (exceptions 1 and 10) indicates level of contribution, with the highest level of contribution associated with the first and last author.
+      - bullet: "* = joint first authorship; ♯ = graduate student co-author; ♮ = undergraduate co-author"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Fast-Lived Vertebrate Hosts Exhibit Higher Potential for Mosquito-Borne Parasite Transmission
+        date: "2024"
+        publisher: bioRxiv
+        url: https://doi.org/10.1101/2024.10.21.619438
+        summary: "Dahlin, Kyle, Suzanne M. O’Regan, John Paul Schmidt, Barbara A. Han, and John M. Drake."
+      - title: Coexistence of Bacteria with a Competition-Colonization Tradeoff on a Dynamic Coral Host
+        date: "2024"
+        publisher: Theoretical Ecology 19 (1)
+        url: https://doi.org/10.1007/s12080-026-00637-y
+        summary: "Gibbs♯, Theo L., Kyle Dahlin, Joe Brennan♯, Cynthia B. Silveira, and Lisa C. McManus."
+      - title: Nonlinear Effects of Noise on Outbreaks of Mosquito-Borne Diseases
+        date: "2025"
+        publisher: PLoS Computational Biology 22 (4), e1013466
+        url: https://doi.org/10.1371/journal.pcbi.1013466
+        summary: "Dahlin, Kyle, Karin Ebey♮, John E. Vinson, and John M. Drake."
+      - title: Routing Functions for Parameter Space Decomposition to Describe Stability Landscapes of Ecological Models
+        date: "2025"
+        publisher: Bulletin of Mathematical Biology 87 (12), 177
+        url: https://doi.org/10.1007/s11538-025-01554-7
+        summary: "Cummings, Joseph, Kyle J-M Dahlin, Elizabeth Gross, and Jonathan D. Hauenstein."
+      - title: "Once Bitten, Twice Shy: A Modeling Framework for Incorporating Heterogeneous Mosquito Biting into Transmission Models"
+        date: "2025"
+        publisher: Bulletin of Mathematical Biology 87 (163), 1–45
+        url: https://doi.org/10.1007/s11538-025-01540-z
+        summary: "Dahlin, Kyle J-M, Michael A. Robert, and Lauren M. Childs."
+      - title: "Theory of Host-Microbe Symbioses: Challenges and Opportunities"
+        date: "2025"
+        publisher: Cell Host & Microbe 33 (7), 1052–56
+        url: https://doi.org/10.1016/j.chom.2025.05.001
+        summary: "Ferretti, Pamela, Maria M. Martignoni*, Lisa C. McManus, Taom Sakal, Armun Liaghat♯, Bethany Stevens, Kyle J-M Dahlin, et al."
+      - title: Supporting the next Generation of Indigenous STEM Scholars Demands Indigenous Leadership
+        date: "2025"
+        publisher: The Journal of Geography 124 (3), 62–72
+        url: https://doi.org/10.1080/00221341.2025.2499822
+        summary: "Reano, Darryl, Dominique David-Chavez, Kinsey Skillen, Kenneth Ridgway, Kyle Dahlin, and Rylan Chong."
+      - title: Simulated Biodiversity Hotspots from Traditional Ecological Knowledge and Western Metrics Do Not Always Overlap
+        date: "2025"
+        publisher: Nature Communications Earth & Environment 6 (1), 1–9
+        url: https://doi.org/10.1038/s43247-025-02309-x
+        summary: "Dahlin, Kyle, Elisa Van Cleemput*, Subodh Adhikari, Karen Castillioni, and Lynette R. Strickland."
+      - title: Impacts of Host Availability and Temperature on Mosquito-borne Parasite Transmission
+        date: "2024"
+        publisher: Ecological Monographs 94 (2)
+        url: https://doi.org/10.1002/ecm.1603
+        summary: "Dahlin, Kyle, Suzanne M. O’Regan, Barbara A. Han, John Paul Schmidt, and John M. Drake."
+      - title: The Effect of Governance Structures on Optimal Control of Two-Patch Epidemic Models
+        date: "2023"
+        publisher: Journal of Mathematical Biology 87 (5), 74
+        url: https://doi.org/10.1007/s00285-023-02001-8
+        summary: "Howerton, Emily∗,♯, Kyle Dahlin*, Christina J. Edholm, Lindsey Fox, Margaret Reynolds, Brandon Hollingsworth, George Lytle, Melody Walker, Julie Blackwood, and Suzanne Lenhart."
+      - title: Five Approaches to the Suppression of SARS-CoV-2 without Intensive Social Distancing
+        date: "2021"
+        publisher: "Proceedings of the Royal Society B: Biological Sciences 288 (1949), 20203074"
+        url: https://doi.org/10.1098/rspb.2020.3074
+        summary: "Drake, John M., Kyle Dahlin, Pejman Rohani, and Andreas Handel."
+      - title: "Modeling the Population Impacts of Avian Malaria on Hawaiian Honeycreepers: Bifurcation Analysis and Implications for Conservation"
+        date: "2019"
+        publisher: Mathematical Biosciences 318, 108268
+        url: https://doi.org/10.1016/j.mbs.2019.108268
+        summary: "Dahlin, Kyle, and Zhilan Feng."
+      - title: Competition Model between the Invasive Sahara Mustard and Native Plants in the Sonoran Desert
+        date: "2012"
+        publisher: Mathematical and Theoretical Biology Institute Technical Reports 09-01M
+        summary: "Dahlin, Kyle, Erika König, Amanda Laubmeier, Austin Wehn, and Karen Rios-Soto."
+      - title: "ʻĀina Momona: The Proliferation of Place-Based Math Pedagogy in Hawaiʻi"
+        date: "2025"
+        publisher: MAA Focus 45 (2), 34–36
+        summary: "Dahlin, Kyle, and Stacy M. T. Potes. General audience."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    In Preparation:
+      - bullet: Modeling interactions between mosquito biting persistence and defensive behaviors on mosquito-borne disease transmission with Michael Robert, Lauren Childs, and Clément Vinauger.
+      - bullet: Optimal control of vectored, venereal, and vertical La Crosse Virus transmission in a wildlife setting with George Lytle and Benjamin Lebdaoui (undergraduate).
+      - bullet: Explainable identification of animal disease reservoirs through topological data analysis with Sarah Percival.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Research Grants:
+      - bullet: "2026 — Arctic Lens Mini-Grant, Center for Sustainable Engagement in the Arctic, Virginia Tech (PI, K. Dahlin) — $1,000"
+      - bullet: "2025 — Seed Grant, Pandemic Prediction and Prevention Destination Area, Virginia Tech (PI, K. Dahlin; co-PIs Clément Vinauger, Lauren M. Childs, Michael Robert) — $20,000"
+      - bullet: "2023 — Ascending Postdoctoral Fellowship (DMS-2316455), NSF Directorate for the Mathematical and Physical Sciences (PI, K. Dahlin) — $300,000"
+      - bullet: "2021 — Modelling University Responses to COVID-19, NIH-MIDAS Coordination Center (co-PIs, K. Dahlin and John Drake) — $9,939"
+    Other Grants:
+      - bullet: "2025 — Career Development Grant, Sloan Scholars Mentoring Network (PI, K. Dahlin) — $3,000"
+      - bullet: "Seminar Speaker Support, VT Center for the Mathematics of Biosystems — $500"
+      - bullet: "2023 — Tensor SUMMA Grant, Mathematical Association of America to the Indigenous Mathematicians Network — $6,000"
+    Honors and Awards:
+      - bullet: "2022–2024 — MGB-SIAM Early Career Fellowship, Society for Industrial and Applied Mathematics"
+      - bullet: "2021 — Contributed Talk Award for Mathematical Epidemiology, Society for Mathematical Biology & University of California, Riverside"
+      - bullet: "2019 — Excellence in Teaching Award, Purdue University Department of Mathematics"
+      - bullet: "2018 — Cagiantas Fellowship, Purdue University. Awarded to a senior Ph.D. student who has demonstrated a high level of accomplishment in their research and has participated in activities that have had a positive impact on the climate of their department, University, or community."
+      - bullet: "2017 — AGEP Mentoring Award, Purdue University"
+      - bullet: "2016 — Lighting the Pathway Fellowship, American Indian Science and Engineering Society"
+      - bullet: "2015–2019 — AGEP Scholarship, Purdue University"
+      - bullet: "2013–2019 — Sloan Indigenous Graduate Partnership Scholarship, Sloan Foundation"
+      - bullet: "2012 — Undergraduate Student Poster Presentation Award, SACNAS"
+      - bullet: "2010 — Undergraduate Math and Biology Research Program Fellowship, University of Hawaiʻi at Mānoa"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Presentations:
+      - bullet: "Colloquia (2025): Virginia Tech Mathematics Colloquium, Blacksburg, VA; James Madison University Mathematics & Statistics Colloquium, Harrisonburg, VA; Mathematics and Climate Research Network, Virtual."
+      - bullet: "Invited seminars: University of Montana Sloan Indigenous Graduate Program Seminar (2026, Virtual); Virginia Tech Ecology and Evolutionary Biology Seminar (2025, Blacksburg, VA); University of Maryland Mathematical Biology Seminar (2025, College Park); University of New Mexico Applied Math Seminar (2025, Albuquerque, NM); Virginia Commonwealth University BioMath Seminar (2025, Richmond, VA); Virginia Tech Mathematical Biology Seminar (2024, Blacksburg, VA); University of Hawaiʻi at Mānoa Applied Math Seminar (2023, Honolulu, HI); University of California, Davis Mathematical Biology Seminar (2022, Virtual); MIDAS Webinar: COVID-19 Urgent Grant Program Awards (2021, Virtual); Virginia Tech Mathematical Biology Seminar (2021, Virtual); Center for the Ecology of Infectious Diseases Disease Ecology Workshop (2020, Athens, GA); University of Hawaiʻi at West Oʻahu (2018, Kapolei, HI); University of Wollongong (2018, Wollongong, Australia); Purdue University Student Colloquium (2018, 2017, and 2016, West Lafayette, IN); Purdue University Graduate Student Research Day (2016, West Lafayette, IN)."
+      - bullet: "Invited conferences: Joint Mathematics Meetings (2026, Washington, DC; 2025, Seattle, WA; 2024, San Francisco, CA; 2022, Virtual); Society for Mathematical Biology (2025, Edmonton, Canada; 2024, Seoul, South Korea; 2019, Montreal, Canada); AISES Region 7 Conference (2024, Hampton, VA); SIAM Annual Meeting (2022, Pittsburgh, PA); SACNAS National Conference (2019, Honolulu, HI); AMS Spring Central and Western Joint Sectional Meeting (2019, Honolulu, HI); 6th International Conference on Mathematical Biology (2018, Beijing, China); AMS Spring Central Sectional Meeting (2018, Columbus, OH)."
+      - bullet: "Contributed presentations: Infectious Diseases Research Symposium, Virginia Tech Center for Emerging, Zoonotic, and Arthropod-borne Pathogens (2025, Blacksburg, VA); Infectious Diseases Research Symposium, CeZAP (2023, Blacksburg, VA); Society for Mathematical Biology Annual Conference (2021, Virtual); SACNAS National Conference (2020, Virtual; 2012, Seattle, WA); AISES National Conference (2018, Oklahoma City, OK)."
+      - bullet: "Poster presentations: Virginia Tech Mechanistic Biological Modeling Symposium (2023, Blacksburg, VA); Society for Vector Ecology Annual Conference (2022, Honolulu, HI); Ecology & Evolution of Infectious Diseases (2022, Atlanta, GA); The Wildlife Society Annual Conference (2018, Reno, NV); Society for Mathematical Biology Annual Conference (2018, Sydney, Australia)."
+      - bullet: "Symposia organized: ʻĀina Momona: A symposium on place-based math education in Hawaiʻi, with Stacy Potes (2025, Honolulu, HI); Society for Mathematical Biology Annual Meeting: Postdoctoral Research Showcase, with Laura Strube (2024, Seoul, South Korea); SIAM Conference on Control and Its Applications: Applications of Control in Biological Systems, with Suzanne Lenhart (2023, Philadelphia, PA); Society for Mathematical Biology Annual Meeting: Ecological models at the interface of empirical and theoretical research, with Amanda Laubmeier (2021, Virtual); Society for Mathematical Biology Annual Meeting: Mathematical models for infectious diseases at population and individual levels, with Joan Ponce (2019, Montreal, Canada); Society for Mathematical Biology Annual Meeting: Mathematical modeling of malaria: Dynamics within-host and between-hosts, with Lauren Childs (2018, Sydney, Australia); 6th International Conference on Mathematical Biology: Mathematical Models in Ecology, with Joan Ponce (2018, Beijing, China)."
 
+    Public Outreach:
+      - bullet: "2023 — University of Hawaiʻi at Mānoa 808 State Math Challenge, Ewa Beach, HI"
+      - bullet: "2023 — University of Hawaiʻi at Mānoa Undergraduate Math Club, Honolulu, HI"
+      - bullet: "2018 — Hands of the Future, Inc., West Lafayette, IN"
+    Teaching Experience:
+      - bullet: "Cal Poly — Fall 2026: Instructor, Linear Analysis (MATH 2341)"
+      - bullet: "Virginia Tech — Spring 2026: Project leader, Center for the Mathematics of Biosystems Summer School; Associate Teaching Badge, Center for the Integration of Research, Teaching, and Learning"
+      - bullet: "Virginia Tech — Fall 2025: Instructor of record, Introduction to Linear Algebra (MATH 2114); Guest lecturer, Infectious Disease Ecology (BIOL 4564)"
+      - bullet: "Virginia Tech — Fall 2024: Guest lecturer, Mathematical Methods for Modeling Biological Systems (MATH 5515)"
+      - bullet: "University of Georgia — Summer 2023: Research mentor, Population biology of infectious diseases (NSF Research Experiences for Undergraduates); Summer 2022: Instructor, Simulating infectious diseases with R (workshop)"
+      - bullet: "Purdue University — Summer 2019: Course coordinator & Instructor, Calculus I (MA 161); Spring 2018: Online instructional support, Applied Calculus I & II (MA 16010 & 16020); Fall 2017: Instructor, Applied Calculus I (MA 16010); Spring 2017: Instructor, Calculus II, Active Learning (MA 162); Fall 2016 and Summer 2016: Instructor, Calculus I (MA 161); Spring 2016: Instructor, Applied Calculus II (MA 16020); Fall 2015: Recitation Instructor, Multivariable Calculus (MA 261); Summer 2015–2019: Instructor, GRE Quantitative Exam Preparation for AGEP."
+      - bullet: "University of Hawaiʻi at Mānoa — Summer 2024: Organizer, Place-based Mathematics Education Seminar; 2012–2013: Calculus and Physics Tutor, Native Hawaiian Science and Engineering Mentorship Program; 2012–2013: Teaching Assistant, Natural Sciences Undergraduate Learning Emporium."
+
+    Mentoring:
+      - bullet: "Cal Poly — N. Hazzard (undergraduate, Mathematics, Cal Poly): Mentored senior thesis project."
+      - bullet: "Virginia Tech — A. Miller (graduate student, Mathematics, Virginia Tech): Met weekly to discuss integral projection modeling and computational techniques for coral population dynamics."
+      - bullet: "Virginia Tech — T. Gibbs (graduate student, Quantitative and Computational Biology, Princeton) and J. Brennan (graduate student, Population Biology, UC Davis): Provided guidance on the development, simulation, and analysis of models of population dynamics of coral holobionts."
+      - bullet: "University of Georgia — A. Willoughby (graduate student, Ecology): Provided guidance on the development on a model of rodent population cycles. K. Ebey (undergraduate REU, Biology, Chemistry, and Mathematics): Advised on a project using stochastic differential equations to model the effects of environmental variation on mosquito-borne disease transmission. N. Tabassum (graduate student, Mathematics, Texas Tech): Provided guidance on generating thermal performance curves for mosquito traits and integrating them into modeling."
+      - bullet: "Purdue University — Four undergraduates (LSAMP) and five graduate students (Graduate Bridge Program) in Mathematics, Statistics, Physics, Wildlife Biology and Conservation, Electrical and Computer Engineering, Mechanical Engineering, Chemical Engineering, and Mechatronics Engineering through the AGEP program."
+
+    Leadership and Service:
+      - bullet: "2025–2026 — Annual Meeting Organizing Committee, Society for Industrial and Applied Mathematics (SIAM)"
+      - bullet: "2024–2026 — Chair, Workshop Celebrating Diversity Working Group, SIAM"
+      - bullet: "2025 — Faculty advisor, American Indian Science and Engineering Society (AISES) at Virginia Tech"
+      - bullet: "2023–present — Member, Virginia Tech Indigenous Caucus; 2021–present — Member-at-Large, Membership Committee, Society for Mathematical Biology; 2020–present — Co-director, Indigenous Mathematicians Network"
+      - bullet: "2024–2025 — Conference Organizing Committee, Mid-Atlantic Regional Math Alliance; 2014–2018 — Vice President (2014) and Treasurer (2015–2018), AISES, Purdue Chapter; 2016–2017 — Graduate Representative, Purdue University Department of Mathematics; 2013–2016 — Assistant Coach, C. Richard Petticrew Forum (Purdue Collegiate Debate Team); 2012–2013 — Captain, University of Hawaiʻi at Mānoa Debate Society."
+    Professional Memberships:
+      - bullet: American Mathematical Society (AMS)
+      - bullet: Society for Industrial and Applied Mathematics (SIAM)
+      - bullet: Society for Mathematical Biology (SMB)
+      - bullet: Mathematical Association of America (MAA)
+      - bullet: Association for Women in Mathematics (AWM)
+      - bullet: Spectra
+      - bullet: American Indian Science and Engineering Society (AISES)
+    Workshops Attended:
+      - bullet: "2025 — +Policy Network Policy Camp, Virginia Tech; The Math Bundle, Banff International Research Station; New Collaborations Workshop, Center for the Mathematics of Biosystems, Virginia Tech."
+      - bullet: "2024 — Theory of Microbial Symbiosis Workshop, Hawaiʻi Institute of Marine Biology, University of Hawaiʻi at Mānoa."
+      - bullet: "2021 — VectorBiTE 2021 Training, VectorBiTE Research Coordination Network; Dynamics of Infectious Diseases: Ecological Models Across Multiple Scales, AMS Mathematics Research Community."
+      - bullet: "2020 — Workshop for New Investigators, NSF Directorate for Mathematical and Physical Sciences; Adaptive Management Tutorial, National Institute for Mathematical and Biological Synthesis, University of Tennessee, Knoxville."
+      - bullet: "2018 — Applied Management Principles, Krannert Executive Education Programs, Purdue University; Disease Ecology and Eco-epidemiology, Mathematical Biosciences Institute, Ohio State University."
+      - bullet: "2017 — Industrial Mathematical and Statistical Modeling Workshop, Statistical and Applied Mathematical Sciences Institute, North Carolina State University."
+      - bullet: "2016 — Dynamics of Biological Systems, Seminaire de Mathematiques Superieure, University of Alberta."
+      - bullet: "2015 — Uncertainty, Sensitivity, and Predictability in Ecology: Mathematical Challenges and Ecological Applications, Mathematical Biosciences Institute, Ohio State University."
+    Journals Refereed:
+      - bullet: Bulletin of Mathematical Biology; Journal of Mathematical Biology; Mathematical Biosciences; Ecology Letters; Journal of Theoretical Biology; Methods in Ecology and Evolution; Proceedings of the Royal Society B; PLoS Computational Biology.
+    Grant Review Panels:
+      - bullet: "National Science Foundation, Division of Mathematical Sciences (2025)"
     Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - language: Programming
+        fluency: Proficient in MATLAB, R, Julia, and LaTeX. Intermediate experience with Python.
+      - language: English
+        fluency: Native
+      - language: Hawaiian
+        fluency: Intermediate
+    Other Certifications:
+      - bullet: "Wilderness First Aid (MEDIC SOLO), Exp. 4/27"
+      - bullet: "Basic Life Support (Red Cross), Exp. 6/28"
