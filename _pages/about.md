@@ -31,7 +31,7 @@ latest_posts:
 
 I am an applied mathematician specializing in mathematical modeling, epidemiology, and vector-borne disease research. My work focuses on using dynamical systems and computational methods to study mosquito-borne disease transmission and inform public health interventions.
 
-I seek to understand how ecological and behavioral dynamics interact to drive disease transmission and develop new mathematical tools to do so.
+I seek to understand how ecological and behavioral dynamics interact to drive disease transmission and develop new mathematical tools to do so. 
 
 This website provides an overview of my research, publications, and teaching activities. Feel free to explore and reach out for potential collaborations or discussions on mathematical modeling in epidemiology and public health.
 
@@ -39,9 +39,9 @@ This website provides an overview of my research, publications, and teaching act
 
 For inquiries regarding research, teaching, or collaborations, feel free to reach out:
 
-- 📧 **Email:** [kjdahlin@calpoly.edu](mailto:kjdahlin@calpoly.edu)
-- 🐙 **GitHub:** [github.com/kydahl](https://github.com/kydahl)
-- 🎓 **Google Scholar:** [scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ](https://scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ)
-- 🔬 **ResearchGate:** [researchgate.net/profile/Kyle-Dahlin](https://www.researchgate.net/profile/Kyle-Dahlin)
+- 📧 [**Email**](mailto:kjdahlin@calpoly.edu)
+- 🐙 [**GitHub**](https://github.com/kydahl)
+- 🎓 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=--CIqWgAAAAJ)
+- 🔬 [**ResearchGate**](https://www.researchgate.net/profile/Kyle-Dahlin)
 
 I welcome opportunities for collaboration and discussion in the areas of **mathematical modeling, epidemiology, and applied mathematics**. Feel free to connect!
