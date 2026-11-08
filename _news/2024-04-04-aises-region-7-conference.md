@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented on Using traditional ecological knowledge to identify biodiversity hotspots at the AISES Region 7 conference at NASA Langley Research Center in Hampton, Virginia.
+Presented on Using traditional ecological knowledge to identify biodiversity hotspots at the [AISES](https://aises.org/) Region 7 conference at NASA Langley Research Center in Hampton, Virginia.

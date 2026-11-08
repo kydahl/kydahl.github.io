@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Spoke at the Virginia Commonwealth University Biomath seminar.
+Spoke at the [Virginia Commonwealth University Biomath seminar](https://math.vcu.edu/events/biomath-seminar/).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Along with Michael Robert and Sarah Reznikoff, I am helping to organize the Math for All in Blacksburg conference, hosted at Virginia Tech.
+Along with Michael Robert and Sarah Reznikoff, I am helping to organize the [Math for All in Blacksburg](https://sites.google.com/view/mathforallnola/in-person-locations/blacksburg-va) conference, hosted at Virginia Tech.

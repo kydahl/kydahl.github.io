@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended The Math Bundle workshop at the Banff International Research Station.
+Attended [The Math Bundle](https://www.birs.ca/events/2025/5-day-workshops/25w5472) workshop at the Banff International Research Station.

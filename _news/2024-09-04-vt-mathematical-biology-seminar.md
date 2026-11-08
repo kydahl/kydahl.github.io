@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at the Mathematical Biology seminar at Virginia Tech on *A framework for integrating complex mosquito feeding behaviors into disease transmission models*.
+Presented at the [Mathematical Biology seminar](https://intranet.math.vt.edu/mathbio/seminar.html) at Virginia Tech on *A framework for integrating complex mosquito feeding behaviors into disease transmission models*.

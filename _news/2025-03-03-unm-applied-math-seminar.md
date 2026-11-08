@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Spoke at the University of New Mexico Applied Math Seminar on *Blending Mosquito Biting Dynamics into Vector-Borne Disease Transmission Models*.
+Spoke at the [University of New Mexico Applied Math Seminar](https://math.unm.edu/news-events/events/applied-math-seminar-kyle-dahlin-virginia-tech) on *Blending Mosquito Biting Dynamics into Vector-Borne Disease Transmission Models*.
