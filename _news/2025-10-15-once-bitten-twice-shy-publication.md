@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<img src="{{ '/assets/img/news/2025-10-15-once-bitten.png' | relative_url }}" alt="Mosquito biting model and graph" style="width: 160px; height: auto;">
+<img class="news-thumbnail" src="{{ '/assets/img/news/2025-10-15-once-bitten.png' | relative_url }}" alt="Mosquito biting model and graph">
 
 New publication: [Once bitten, twice shy: A modeling framework for incorporating heterogeneous mosquito biting into transmission models](https://doi.org/10.1007/s11538-025-01540-z) in the *Bulletin of Mathematical Biology*. This work was highlighted in a [Virginia Tech News article](https://news.vt.edu/articles/2025/11/science-modeling-the-menace.html).
